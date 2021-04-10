@@ -408,6 +408,26 @@ div.footer h6 {
      div.hero-background-pos {
          display: none;
      }
+     div.hero-content-heading h3 {
+        font-size: 2rem;
+
+    }
+
+    div.hero-content-heading p {
+       text-align: center;
+       padding-top: 0.4rem;
+       color: #88949B;
+       font-size: 1rem;
+       letter-spacing: 2px;
+       font-weight: 300;
+   }
+
+   div.background p {
+       color: #A6A5AA;
+       padding-left: 2rem;
+       font-size: 0.7rem;
+       letter-spacing: 2px;
+   }
      div.snapshot-team {
          padding: 2rem;
          background: #f0f0f0;
