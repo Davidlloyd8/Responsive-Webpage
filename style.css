@@ -489,11 +489,11 @@ div.footer h6 {
 
     li {
         margin: 2.5rem 0;
-    }
-    
-    .icon {
+    }.icon {
         display: block;
         cursor: pointer;
     }
+    
+    
 
 }
